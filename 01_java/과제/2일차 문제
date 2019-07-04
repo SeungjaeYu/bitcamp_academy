@@ -1,0 +1,34 @@
+1. 다음 코딩의 대한 결과값을 적으시오
+  	System.out.println(100 + "200");
+  	
+  	1) 300
+  	2) 100200
+  	3) 200
+  	4) 100
+ 
+ 2. 다음 코딩 중 우선 순위가 가장 높은 것은?
+ 	System.out.println(i + " + " + j + " = " + (i + j));	
+  	
+  	1) i
+  	2) j
+  	3) " = "
+  	4) (i+j)
+  	
+  3. 다음 중 CamelCase 표기법 의거 상수의 이름으로 맞는 것은?
+  	1) Test01
+  	2) nameValue
+  	3) option
+  	4) MAX_VALUE
+  	
+  4) 다음 코드를 보고 주석을 참고하여 ?에 들어갈 알맞는 값을 넣으시오.
+		Random r = new Random();
+				
+		// num1은 2에서 9까지의 랜덤한 정수를 출력해야 한다.
+		int num1 = ( ? )
+		System.out.println("num1 : " + num1);	
+		
+  5) 밑의 코드는 스캐너 클래스의 키보드 입력을 콘솔창으로 받기 위하여 생성되었다.
+      ?에 들어갈 알맞는 값을 적으시오
+        Scanner keyboard = new Scanner( ? );
+        
+        
