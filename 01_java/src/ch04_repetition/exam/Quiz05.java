@@ -22,7 +22,6 @@ public class Quiz05 {
 		
 		while (remainder >= 1) {
 			remainder /= 10;
-			remainder = remainder / 10;
 			cnt += 1;
 		}
 		System.out.printf("%d은 %d자리입니다.", num , cnt);		
